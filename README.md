@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 **Hey there!**
-If your'e reading those lines you have reached my github, so **welcome!**
+If your'e reading these lines you have reached my github, so **welcome!**
 <img src="https://www.flaticon.com/svg/static/icons/svg/1508/1508843.svg" width="50" height="50" />
 
 :question: I'm Yuval, 26 year old developer from Israel, graduated from Bsc in Computer Science this year
