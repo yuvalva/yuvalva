@@ -27,7 +27,7 @@ If your'e reading those lines you have reached my github, so **welcome!**
 
 :heart: I enjoy object oriented programming, design patterns concepts and web delvelopment!
 
-:star: I'm working for 2.5 years as a software developer and keep studding new things at my free time
+:star: I'm working for 2.5 years as a software developer and keep studying new things at my free time
 
 🌱 I’m currently learning JavaScript at Udemy and will upload soon my very first projects using JavaScript, my other projects will also be uploaded soon so keep 
 an eye on my repository :eyes:
